@@ -28,8 +28,8 @@ importers:
         specifier: ^19.3.0
         version: 19.3.0
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@favware/npm-deprecate':
         specifier: ^1.0.7
         version: 1.0.7(encoding@0.1.13)
@@ -629,8 +629,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^18.19.45
         version: 18.19.45
@@ -699,8 +699,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^16.18.105
         version: 16.18.105
@@ -747,8 +747,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^18.19.45
         version: 18.19.45
@@ -814,8 +814,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^18.19.45
         version: 18.19.45
@@ -875,8 +875,8 @@ importers:
         specifier: workspace:^
         version: link:../api-extractor
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^18.19.45
         version: 18.19.45
@@ -966,8 +966,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^3.0.2
-        version: 3.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^16.18.105
         version: 16.18.105
@@ -1024,8 +1024,8 @@ importers:
         version: 0.25.13(typescript@5.5.4)
     devDependencies:
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/jsdoc-to-markdown':
         specifier: ^7.0.6
         version: 7.0.6
@@ -1070,8 +1070,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^16.18.105
         version: 16.18.105
@@ -1143,8 +1143,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^18.19.45
         version: 18.19.45
@@ -1204,8 +1204,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^18.19.45
         version: 18.19.45
@@ -1326,8 +1326,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: 18.17.9
         version: 18.17.9
@@ -1457,8 +1457,8 @@ importers:
         version: 18.3.1(react@18.3.1)
     devDependencies:
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@storybook/addon-essentials':
         specifier: ^8.1.5
         version: 8.2.9(storybook@8.2.9(@babel/preset-env@7.25.4(@babel/core@7.25.2))(bufferutil@4.0.8)(utf-8-validate@6.0.4))
@@ -1556,8 +1556,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^16.18.105
         version: 16.18.105
@@ -1632,8 +1632,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/jest':
         specifier: ^29.5.12
         version: 29.5.12
@@ -1717,8 +1717,8 @@ importers:
         specifier: workspace:^
         version: link:../scripts
       '@favware/cliff-jumper':
-        specifier: ^4.0.3
-        version: 4.0.3
+        specifier: ^4.1.0
+        version: 4.1.0
       '@types/node':
         specifier: ^18.19.45
         version: 18.19.45
@@ -3141,9 +3141,9 @@ packages:
     resolution: {integrity: sha512-vBZP4NlzfOlerQTnba4aqZoMhE/a9HY7HRqoOPaETQcSQuWEIyZMHGfVu6w9wGtGK5fED5qRs2DteVCjOH60sA==}
     engines: {node: '>=14'}
 
-  '@favware/cliff-jumper@3.0.3':
-    resolution: {integrity: sha512-YUeNpExxRu0XrV39aHP9msHBpPPNdog2Gad3MGNzmXAEaM5Qu2xxtOsXKwNzZlCjADbsP03S8oL2nKhAp6nb5w==}
-    engines: {node: '>=v16'}
+  '@favware/cliff-jumper@4.1.0':
+    resolution: {integrity: sha512-z8U6XecZr3F7nkq2d+dg+QXaHcBh+DugUuVQGwIEo2vpAPOFkZ0Xnz3YbnTu0zPlr9lDEWL/rbnGEr0lwCaGOA==}
+    engines: {node: '>=v18'}
     hasBin: true
 
   '@favware/cliff-jumper@4.0.3':
@@ -5110,14 +5110,6 @@ packages:
   '@sapphire/snowflake@3.5.3':
     resolution: {integrity: sha512-jjmJywLAFoWeBi1W7994zZyiNWPIiqRRNAmSERxyg93xRGzNYvGjlZ0gR6x0F4gPRi2+0O6S71kOZYyr3cxaIQ==}
     engines: {node: '>=v14.0.0', npm: '>=7.0.0'}
-
-  '@sapphire/utilities@3.15.3':
-    resolution: {integrity: sha512-K5dFGOB5XvblXFN+Av+Tch/dVBAifmxtZ9/2mFo8VqzbiaFJIRUuoPAoNsp8pWYaU423yV8bfD8WsCSNd9w1YQ==}
-    engines: {node: '>=v14.0.0'}
-
-  '@sapphire/utilities@3.16.2':
-    resolution: {integrity: sha512-0gRyXPH0hbmfZXwgvCH1z9H/kQwOlLeui86zKafZENpdjmuZznSkDFHRSUksr8Y5W/BxkqnR2WbNEfululh20Q==}
-    engines: {node: '>=v14.0.0'}
 
   '@sapphire/utilities@3.17.0':
     resolution: {integrity: sha512-bbqjnKKrCgyT0C3+KOjIBzE6z6/v764EFuV7Uxw9WeIdkqGhwepl6tuNEzgiek/JdtEcODaPeX0K1aCt53yCcA==}
@@ -7285,11 +7277,6 @@ packages:
     engines: {node: '>=18'}
     hasBin: true
 
-  conventional-recommended-bump@9.0.0:
-    resolution: {integrity: sha512-HR1yD0G5HgYAu6K0wJjLd7QGRK8MQDqqj6Tn1n/ja1dFwBCE6QmV+iSgQ5F7hkx7OUR/8bHpxJqYtXj2f/opPQ==}
-    engines: {node: '>=16'}
-    hasBin: true
-
   convert-hrtime@3.0.0:
     resolution: {integrity: sha512-7V+KqSvMiHp8yWDuwfww06XleMWVVB9b9tURBx+G7UTADuo5hYPuowKloz4OzOqbPezxgo+fdQ1522WzPG4OeA==}
     engines: {node: '>=8'}
@@ -8647,38 +8634,38 @@ packages:
     resolution: {integrity: sha512-8EHPljDvs7qKykr6uw8b+lqLiUc/vUg+KVTI0uND4s63TdsZM2Xus3mflvF0DDG9SiM4RlCkFGL+7aAjRmV7KA==}
     hasBin: true
 
-  git-cliff-darwin-arm64@2.4.0:
-    resolution: {integrity: sha512-KImSJhO8pTkKCauYlKmx7vNz3caIIBs0QW3JIS0uwUXGGJas4uuvGXlGTbLqVxdCur2yBwRDD6xobtuLC0yQ4w==}
+  git-cliff-darwin-arm64@2.5.0:
+    resolution: {integrity: sha512-mIw8CZRRRVFB7HWLYESAlvLjXSoqMThyhbdCbVJYEZw2Qxx2UhldEkGv62+qLAhjYwG7GfoeByDqwXGS9rWe7Q==}
     cpu: [arm64]
     os: [darwin]
 
-  git-cliff-darwin-x64@2.4.0:
-    resolution: {integrity: sha512-KtJ/V0i9xxs5iXl+hh1J4wyhMOrMRNylfSQC0lMJ+ScIIr1sZdF9qz4Mk06ZdJD7HnvPWawBhLcpCKVXkaeufQ==}
+  git-cliff-darwin-x64@2.5.0:
+    resolution: {integrity: sha512-YPoE+rAgdRea4apauK25yDqNDJYvZtoqE8FBKuKRo9AY+btqZMVgxN6UNf9Ea4jQtDQOTqhpYUpM0czk9z4GgQ==}
     cpu: [x64]
     os: [darwin]
 
-  git-cliff-linux-arm64@2.4.0:
-    resolution: {integrity: sha512-ZSL5Jw06pgJ0F2e4Dv7j7l69qmq718NA8IKIUscjayc+71iuzyOw0T2tnbkV6H1h1rDjP9LMXGyPtLIvGz62BA==}
+  git-cliff-linux-arm64@2.5.0:
+    resolution: {integrity: sha512-KJCD7tpH+LJw7XrKhi+jPWFxEGqsxUDUmNLeSjGGptkbXx+LXNFTqTdvQHCeFWSybKMuBnEcou8qEfYTDIcrIg==}
     cpu: [arm64]
     os: [linux]
 
-  git-cliff-linux-x64@2.4.0:
-    resolution: {integrity: sha512-1ckJ+2io52HuBnEeS87PeFanEPt3BuZoHKcXfkQPYFj9C91ckHgY7OCqze38ejy1V/cfKhlVJsbjbVMxixRaog==}
+  git-cliff-linux-x64@2.5.0:
+    resolution: {integrity: sha512-jvyfCRy758iHRvbsM6VmGWqOm0OczQLDI/r6w/OdAoRIt5vQiZJbJFJaMLqzEJRtN8g4hTrEZ+5EYbFY1BMVDQ==}
     cpu: [x64]
     os: [linux]
 
-  git-cliff-windows-arm64@2.4.0:
-    resolution: {integrity: sha512-DZf+C7lTmCvvBjgtOHMcXJC5KaIL+QDE/C6cYxzLMgRcn9wGNTm2ot0jkAN2I1PmSmg4I1/89iiahSWHfG1m4A==}
+  git-cliff-windows-arm64@2.5.0:
+    resolution: {integrity: sha512-t+5ikWPEJuVbDfVWU/Ckbno9qKA6FOQuM9gnRi7tjnXXDoEwdgwZVvCHB3p3dmcgzzmRA1RRAhS27CNJMTB42Q==}
     cpu: [arm64]
     os: [win32]
 
-  git-cliff-windows-x64@2.4.0:
-    resolution: {integrity: sha512-bYUQIyG975KdPza/bNDxwBFpqTZEvF1zPKlhThgPgdCKdzbdezsgaFuaDbnM+vsmBD751ZJGWLQ7aJCSBG2s/Q==}
+  git-cliff-windows-x64@2.5.0:
+    resolution: {integrity: sha512-rKCowa6k79bdujEa9/s+PSk3M5ViNZISFp4NK+0Ac6yoCDN0ylgvhHRUhSoxLjJ73an40Rg+I83Q92HPKklVGw==}
     cpu: [x64]
     os: [win32]
 
-  git-cliff@2.4.0:
-    resolution: {integrity: sha512-e+4mMArblL4mrD/auUTa3bf3U1ahAuhIRb1bxTIWCBxnR6UqVctGaLf3pJJufaKi3nqTT7JvrSYu9Q+L6yiAaw==}
+  git-cliff@2.5.0:
+    resolution: {integrity: sha512-HOWY+f5YyK3fYylYY7N8tdd+qPPK7cuInkyY1PVMRsU4c2JT8TM2rvxpVDa6p5uD5MlZ/4mZ7E8RLux99TapQQ==}
     engines: {node: '>=18.19 || >=20.6 || >=21'}
     hasBin: true
 
@@ -15176,19 +15163,22 @@ snapshots:
 
   '@fastify/busboy@2.1.1': {}
 
-  '@favware/cliff-jumper@3.0.3':
+  '@favware/cliff-jumper@4.1.0':
     dependencies:
       '@favware/colorette-spinner': 1.0.1
+      '@octokit/auth-token': 5.1.1
+      '@octokit/core': 6.1.2
+      '@octokit/plugin-retry': 7.1.1(@octokit/core@6.1.2)
       '@sapphire/result': 2.6.6
-      '@sapphire/utilities': 3.15.3
+      '@sapphire/utilities': 3.17.0
       colorette: 2.0.20
       commander: 12.1.0
-      compare-func: 2.0.0
-      conventional-recommended-bump: 9.0.0
-      execa: 8.0.1
-      git-cliff: 2.4.0
+      conventional-recommended-bump: 10.0.0
+      execa: 9.3.1
+      git-cliff: 2.5.0
       js-yaml: 4.1.0
       semver: 7.6.3
+      smol-toml: 1.3.0
 
   '@favware/cliff-jumper@4.0.3':
     dependencies:
@@ -18141,10 +18131,6 @@ snapshots:
       lodash: 4.17.21
 
   '@sapphire/snowflake@3.5.3': {}
-
-  '@sapphire/utilities@3.15.3': {}
-
-  '@sapphire/utilities@3.16.2': {}
 
   '@sapphire/utilities@3.17.0': {}
 
@@ -21152,15 +21138,6 @@ snapshots:
       conventional-commits-parser: 6.0.0
       meow: 13.2.0
 
-  conventional-recommended-bump@9.0.0:
-    dependencies:
-      conventional-changelog-preset-loader: 4.1.0
-      conventional-commits-filter: 4.0.0
-      conventional-commits-parser: 5.0.0
-      git-raw-commits: 4.0.0
-      git-semver-tags: 7.0.1
-      meow: 12.1.1
-
   convert-hrtime@3.0.0: {}
 
   convert-source-map@1.9.0: {}
@@ -22965,34 +22942,34 @@ snapshots:
       pathe: 1.1.2
       tar: 6.2.1
 
-  git-cliff-darwin-arm64@2.4.0:
+  git-cliff-darwin-arm64@2.5.0:
     optional: true
 
-  git-cliff-darwin-x64@2.4.0:
+  git-cliff-darwin-x64@2.5.0:
     optional: true
 
-  git-cliff-linux-arm64@2.4.0:
+  git-cliff-linux-arm64@2.5.0:
     optional: true
 
-  git-cliff-linux-x64@2.4.0:
+  git-cliff-linux-x64@2.5.0:
     optional: true
 
-  git-cliff-windows-arm64@2.4.0:
+  git-cliff-windows-arm64@2.5.0:
     optional: true
 
-  git-cliff-windows-x64@2.4.0:
+  git-cliff-windows-x64@2.5.0:
     optional: true
 
-  git-cliff@2.4.0:
+  git-cliff@2.5.0:
     dependencies:
       execa: 8.0.1
     optionalDependencies:
-      git-cliff-darwin-arm64: 2.4.0
-      git-cliff-darwin-x64: 2.4.0
-      git-cliff-linux-arm64: 2.4.0
-      git-cliff-linux-x64: 2.4.0
-      git-cliff-windows-arm64: 2.4.0
-      git-cliff-windows-x64: 2.4.0
+      git-cliff-darwin-arm64: 2.5.0
+      git-cliff-darwin-x64: 2.5.0
+      git-cliff-linux-arm64: 2.5.0
+      git-cliff-linux-x64: 2.5.0
+      git-cliff-windows-arm64: 2.5.0
+      git-cliff-windows-x64: 2.5.0
 
   git-raw-commits@4.0.0:
     dependencies:
